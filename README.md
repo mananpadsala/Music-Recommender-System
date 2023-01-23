@@ -21,5 +21,5 @@ PyTorch
 NLTK (Natural Language Toolkit)
 To run the code, clone the repository and run the jupyter notebook Music_Recommender_System.ipynb. The data used in the project is included in the data file.
 
-Conclusion
+## Conclusion
 The music recommender system can be used to suggest relevant songs to users based on their listening history, preferences, and the similarity of the songs' audio features. This project demonstrates how to build a music recommender system using a hybrid approach of collaborative filtering and content-based filtering, and using Machine Learning classification algorithms such as TensorFlow and PyTorch for deep learning and NLP, for collaborative-based filtering.
