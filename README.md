@@ -1,4 +1,4 @@
-# Music-Recommender-System
+# BeatBrain: Music-Recommender-System
 This project aims to build a music recommender system that suggests songs to users based on their listening history, preferences, and the similarity of the songs' audio features using Machine Learning classification algorithms and libraries such as TensorFlow and PyTorch for content-based filtering and deep learning, behavioral patterns and NLP for collaborative-based filtering.
 
 ## Data
